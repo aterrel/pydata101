@@ -10,6 +10,7 @@ A collection of resources used to build this tutorial
 ## Beer
 - http://blog.yhat.com/posts/recommender-system-in-r.html
 - http://blog.yhat.com/posts/the-beer-bandit.html
+- https://github.com/dustinstansbury/ipython_notebooks/blob/master/Beer%20Reviews.ipynb
 
 ## Tutorials:
 
