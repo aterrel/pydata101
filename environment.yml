@@ -11,5 +11,3 @@ dependencies:
 - lxml=3.6
 - html5lib=0.999
 - BeautifulSoup4=4.4
-- pip
-  - TextBlob=0.11
