@@ -1,16 +1,18 @@
 # pydata101
 Tutorial PyData 101 for PyCon 2016
 
+Follow along at: http://bit.ly/pydata101
+
 
 ## Basics
 
-Python Level: Novice 
+Python Level: Novice
 
-Audience: New programmers looking to begin working with datasets, basic statistics, and visualization 
-Objectives: Learn how to use Pandas DataFrames to load and manipulate data, how to use basic classification techniques using SciKit Learn, and how to create interactive visualizations using Bokeh 
+Audience: New programmers looking to begin working with datasets, basic statistics, and visualization
+Objectives: Learn how to use Pandas DataFrames to load and manipulate data, how to use basic classification techniques using SciKit Learn, and how to create interactive visualizations using Bokeh
 
 Description:
-Data Science is fun and with the PyData toolset something you can start to build with in an afternoon. Join us as we start with a few datasets, learn how to munge, model, and materialize into simple web applications for predictions. At the end of the day you will come away with a solid understanding of the PyData ecosystem and tools used everyday by data scientists. 
+Data Science is fun and with the PyData toolset something you can start to build with in an afternoon. Join us as we start with a few datasets, learn how to munge, model, and materialize into simple web applications for predictions. At the end of the day you will come away with a solid understanding of the PyData ecosystem and tools used everyday by data scientists.
 
 ## Abstract
 Data science applications are all around us. One can find directions on our phones, recommendations on e-commerce sites, or predictions of attacks on our servers. As the uses and opportunities to use data in our applications rise, it becomes an essential skill for programmers to be exposed to the ideas and paradigms of data science applications. We start from the beginning and build out concepts and demonstrations to begin your journey learning the wide world of data science applications.
@@ -42,7 +44,7 @@ Other useful things to download
 IPython notebook (http://ipython.org/notebook.html)
 Your favorite census dataset (http://www.census.gov/data/developers/data-sets.html)
 An interesting research dataset (https://archive.ics.uci.edu/ml/datasets.html)
- 
+
 
 ##Outline
 
@@ -77,7 +79,7 @@ An interesting research dataset (https://archive.ics.uci.edu/ml/datasets.html)
     - Deep Learning
     - Natural Language Processing
   - Where to learn more
-  - Get started with Kaggle  
+  - Get started with Kaggle
 
 ## Installation
 
