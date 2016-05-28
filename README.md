@@ -1,8 +1,9 @@
 # pydata101
 Tutorial PyData 101 for PyCon 2016
 
-Follow along at: http://bit.ly/pydata101
-
+Follow along at: http://bit.ly/pydata101  
+Ask questions at: http://bit.ly/pydata101-doc  
+Run on: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/aterrel/pydata101)
 
 ## Basics
 
